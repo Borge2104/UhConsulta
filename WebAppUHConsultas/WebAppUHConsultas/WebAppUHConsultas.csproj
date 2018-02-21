@@ -221,6 +221,14 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\DevUHS - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\DevUHS - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\DevUHS - Web Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\DevUHS - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\UhConsulta - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\UhConsulta - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\uhconsulta-dev - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\uhconsulta-dev - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
