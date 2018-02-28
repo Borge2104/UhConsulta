@@ -29,5 +29,7 @@ namespace WebAppUHConsultas.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<WebAppUHConsultas.Models.Create_Usuario> Create_Usuario { get; set; }
     }
 }

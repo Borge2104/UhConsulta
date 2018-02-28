@@ -79,3 +79,4 @@ C:\Users\JMC_2\Documents\GitHub\UhConsulta\WebAppUHConsultas\WebAppUHConsultas\b
 C:\Users\JMC_2\Documents\GitHub\UhConsulta\WebAppUHConsultas\WebAppUHConsultas\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\JMC_2\Documents\GitHub\UhConsulta\WebAppUHConsultas\WebAppUHConsultas\obj\Debug\WebAppUHConsultas.dll
 C:\Users\JMC_2\Documents\GitHub\UhConsulta\WebAppUHConsultas\WebAppUHConsultas\obj\Debug\WebAppUHConsultas.pdb
+C:\Users\JMC_2\Documents\GitHub\UhConsulta\WebAppUHConsultas\WebAppUHConsultas\obj\Debug\WebAppUHConsultas.csprojResolveAssemblyReference.cache

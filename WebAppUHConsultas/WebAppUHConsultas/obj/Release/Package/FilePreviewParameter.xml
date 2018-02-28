@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="DevUHS" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="uhconsulta-dev" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\JMC_2\\Documents\\GitHub\\UhConsulta\\WebAppUHConsultas\\WebAppUHConsultas\\obj\\Release\\Package\\PackageTmp$" />
     <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\JMC_2\\Documents\\GitHub\\UhConsulta\\WebAppUHConsultas\\WebAppUHConsultas\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
